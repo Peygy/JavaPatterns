@@ -12,7 +12,7 @@ public class Main
         // Пример использования
         CustomExecutorService executorService = new CustomExecutorService(5);
 
-        for (int i = 0; i < 10; i++)
+        for (int i = 1; i < 6; i++)
         {
             final int taskNumber = i;
             executorService.submit(() -> {
