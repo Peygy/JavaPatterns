@@ -25,16 +25,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Programming/JavaPatterns/Tasks/src/Task8",
-    "onboarding.tips.debug.path": "D:/Programming/MIREA/Java/Tasks/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Programming/JavaPatterns/Tasks/src/Task8&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Programming/MIREA/Java/Tasks/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Programming\JavaPatterns\Tasks\src\Task8" />
@@ -76,6 +76,10 @@
       <workItem from="1708595299231" duration="2159000" />
       <workItem from="1709193162935" duration="351000" />
       <workItem from="1709706849965" duration="6522000" />
+      <workItem from="1710104802612" duration="93000" />
+      <workItem from="1710104956104" duration="4000" />
+      <workItem from="1710106838094" duration="18000" />
+      <workItem from="1710316856969" duration="727000" />
     </task>
     <servers />
   </component>
