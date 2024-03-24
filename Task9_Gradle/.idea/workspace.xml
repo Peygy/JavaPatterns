@@ -48,27 +48,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.task09 [:Main.main()].executor": "Run",
-    "Gradle.task09 [copyJar].executor": "Run",
-    "Gradle.task09 [runDocker].executor": "Run",
-    "Gradle.task09.executor": "Run",
-    "JAR Application.myapp.jar.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "last_opened_file_path": "D:/Programming/JavaPatterns/Task9_Gradle",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.task09 [:Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.task09 [copyJar].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.task09 [runDocker].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.task09.executor&quot;: &quot;Run&quot;,
+    &quot;JAR Application.myapp.jar.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Programming/JavaPatterns/Task9_Gradle&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
         <option value="jdk-15.0.10-azul-15.0.10-4caba194b151-739f9a4f" />
         <option value="jdk-20.0.2-azul-20.0.2-f644763e9732-d86f2a68" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
       </set>
     </attachedChunks>
   </component>
@@ -89,7 +90,16 @@
       <workItem from="1710353923435" duration="12000" />
       <workItem from="1710353950884" duration="969000" />
       <workItem from="1710354979231" duration="600000" />
+      <workItem from="1710402036265" duration="15000" />
+      <workItem from="1710402294569" duration="729000" />
+      <workItem from="1710403165060" duration="705000" />
+      <workItem from="1710404383909" duration="168000" />
+      <workItem from="1710404676630" duration="31000" />
+      <workItem from="1710674593785" duration="1385000" />
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="Dockerfile" />
   </component>
 </project>
