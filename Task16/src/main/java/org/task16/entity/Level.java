@@ -18,6 +18,6 @@ public class Level
     @Column(name="level_name", nullable=false, length=25)
     private String levelName;
 
-    @Column(name="game_id")
-    public Long gameId;
+    @ManyToOne
+    public Game game;
 }

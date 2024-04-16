@@ -1,10 +1,8 @@
-package org.task16.entity;
+package org.task19.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
-
-import java.util.List;
 
 @Entity
 @Table(name = "games")
@@ -19,7 +17,4 @@ public class Game
     private String name;
     @Column(name="creation_date", nullable=false, length=25)
     private String creationDate;
-
-    @OneToMany
-    private List<Level> levels;
 }

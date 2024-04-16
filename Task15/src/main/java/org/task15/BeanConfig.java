@@ -18,7 +18,7 @@ public class BeanConfig
     public HikariDataSource dataSource()
     {
         var config = new HikariConfig();
-        config.setJdbcUrl("jdbc:postgresql://localhost:5433/postgres");
+        config.setJdbcUrl("jdbc:postgresql://localhost:5432/test");
         config.setUsername("postgres");
         config.setPassword("password");
 

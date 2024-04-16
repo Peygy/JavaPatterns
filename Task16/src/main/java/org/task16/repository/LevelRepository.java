@@ -27,10 +27,8 @@ public class LevelRepository
     {
         var t = session.beginTransaction();
         var game = session.get(Game.class, gameId);
+        level.setGame(game);
         session.persist(level);
-
-        game.getLevels().add(level);
-        session.update(game);
         t.commit();
     }
 
